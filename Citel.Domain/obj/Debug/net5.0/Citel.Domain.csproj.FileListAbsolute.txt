@@ -1,0 +1,12 @@
+C:\Projetos\Citel.Api\Citel.Domain\bin\Debug\net5.0\Citel.Domain.deps.json
+C:\Projetos\Citel.Api\Citel.Domain\bin\Debug\net5.0\Citel.Domain.dll
+C:\Projetos\Citel.Api\Citel.Domain\bin\Debug\net5.0\ref\Citel.Domain.dll
+C:\Projetos\Citel.Api\Citel.Domain\bin\Debug\net5.0\Citel.Domain.pdb
+C:\Projetos\Citel.Api\Citel.Domain\obj\Debug\net5.0\Citel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Citel.Api\Citel.Domain\obj\Debug\net5.0\Citel.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Citel.Api\Citel.Domain\obj\Debug\net5.0\Citel.Domain.AssemblyInfo.cs
+C:\Projetos\Citel.Api\Citel.Domain\obj\Debug\net5.0\Citel.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Citel.Api\Citel.Domain\obj\Debug\net5.0\Citel.Domain.dll
+C:\Projetos\Citel.Api\Citel.Domain\obj\Debug\net5.0\ref\Citel.Domain.dll
+C:\Projetos\Citel.Api\Citel.Domain\obj\Debug\net5.0\Citel.Domain.pdb
+C:\Projetos\Citel.Api\Citel.Domain\obj\Debug\net5.0\Citel.Domain.csproj.AssemblyReference.cache
